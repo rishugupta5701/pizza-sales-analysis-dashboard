@@ -100,8 +100,6 @@ Pizza-Sales-Analysis/
 └── README.md
 ```
 
-*Note: Update the file structure above to match the actual files in your repository.*
-
 ## 🚀 Conclusion
 
 This project demonstrates how Power BI can transform raw sales data into meaningful business insights through interactive dashboards and visual analytics.
